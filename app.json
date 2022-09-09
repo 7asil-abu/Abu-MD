@@ -14,21 +14,6 @@
             "required": true,
             "value":".,"
         },
-        "GOODBYE_MSG": {
-            "description": "Groups for antilink (JIDS)",
-            "required": false,
-            "value":"{pp}Hi @user It was Nice Seeing you"
-        },
-        "WELCOME_MSG": {
-            "description": "Bot will read all messages. Can be also false",
-            "required": true,
-            "value":"{pp}Hi @user Welcome to @gname\nYou\'re our @count/513 Members "
-        },
-        "PROMOTEMSG": {
-            "description": "Bot will read all commands (blue tick). Can be also false",
-            "required": true,
-            "value":"_@user promoted by @promoter_ "
-        },
        "HEROKU_API_KEY": {
             "description": "For updating bot and setting vars remotely",
             "required": true,
