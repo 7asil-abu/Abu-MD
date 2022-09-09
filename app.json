@@ -44,6 +44,11 @@
             "required": true,
             "value":"ʏᴏᴜʀ ʙᴏᴛ ɴᴀᴍᴇ"
         },
+        "PROMOTEMSG": {
+            "description": "Name of Your Bot",
+            "required": true,
+            "value":"_@user promoted by @promoter_"
+        },
         "OWNER_NUMBER": {
             "description": "Owner number",
             "required": true,
@@ -53,11 +58,6 @@
             "description": "Work Type Private or public",
             "required": true,
             "value":"public"
-        },
-        "PROMOTEMSG": {
-            "description": "Bot will read all commands (blue tick). Can be also false",
-            "required": true,
-            "value":"_@user promoted by @promoter_ "
         },
         "SUDO": {
             "description": "These numbers can control your bot. seperate with commas",
