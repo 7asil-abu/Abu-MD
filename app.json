@@ -29,11 +29,6 @@
             "required": true,
             "value":"ᴀʙᴜ ᴍᴅ ᴡᴀ ʙᴏᴛ"
         },
-        "WELCOME_MSG": {
-            "description": "Bot will read all messages. Can be also false",
-            "required": true,
-            "value":"{pp}Hi @user Welcome to @gname\nYou\'re our @count/513 Members "
-        },
         "BOT_NAME": {
             "description": "Name of Your Bot",
             "required": true,
