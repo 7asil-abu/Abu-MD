@@ -2,9 +2,9 @@
   "name": "Abu-MD", 
   "version": "2.0.1",
   "description": "Abu whatsapp bot- Multi device version.",
-  "main": "./Abu-MD/index.js",
+  "main": "index.js",
   "scripts": {
-    "start": "supervisor -s index.js"
+    "start": "pm2 start . --attach --name ⛦"
   },
   "repository": {
     "type": "git",
