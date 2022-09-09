@@ -29,10 +29,10 @@
             "required": true,
             "value":"ᴀʙᴜ ᴍᴅ ᴡᴀ ʙᴏᴛ"
         },
-        "CHATBOT": {
-            "description": "chat bot ! auto replay",
-            "required": true,
-            "value":"off"
+        "GOODBYE_MSG": {
+            "description": "Groups for antilink (JIDS)",
+            "required": false,
+            "value":"{pp}Hi @user It was Nice Seeing you"
         },
         "BOT_NAME": {
             "description": "Name of Your Bot",
